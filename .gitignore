@@ -70,3 +70,8 @@ modules/views/
 # vim Files
 # --------------------
 *.swp
+
+# --------------------
+# others
+# --------------------
+README-sample.md
